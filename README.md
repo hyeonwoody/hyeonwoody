@@ -1,9 +1,4 @@
 # 💫 Moto:
-One of the important aspects of programming is obtaining the correct solutions. However, when the environment or requirements in which the program operates change, what was considered correct in the past may no longer be correct. Therefore, it is important to consider not only obtaining correct results, but also the maintainability and scalability of the code.
-
-Although there may be no silver bullet, I aspire to do ***programming that was right then and is still right now***, while considering the important factors of maintainability, scalability, and problem-solving ability. I understand that programming is a field that constantly evolves, and new technologies and methods emerge regularly. Thus, I am committed to continuously learn and update myself to stay current and provide the best solutions.
-
-
 ***Crafting Enduring Solutions in a Dynamic World:***
 
 **Beyond Immediate Accuracy:** Getting correct solutions is crucial in programming. But it's a dynamic landscape where environments and requirements can shift, rendering once-perfect solutions obsolete. Recognizing this, I advocate for a broader perspective, valuing not just immediate correctness, but also the program's ability to adapt and thrive over time.
